@@ -1,0 +1,75 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 32px;
+}
+
+main {
+    padding: 20px;
+}
+
+.hadith {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: right;
+}
+
+.hadith h2 {
+    font-size: 24px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+/* ... أنماط أخرى ... */
+
+.hadith-category {
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.hadith-category h2 {
+    font-size: 28px;
+}
+
+.hadith-category h3 {
+    font-size: 20px;
+}
+
+/* ... أنماط أخرى ... */
+/* ... أنماط أخرى ... */
+
+.dua {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: right;
+}
+
+.dua h3 {
+    font-size: 20px;
+}
+
+/* ... أنماط أخرى ... */
+
